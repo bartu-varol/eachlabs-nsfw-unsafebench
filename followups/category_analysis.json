@@ -1,0 +1,97 @@
+{
+ "n": 2037,
+ "agree": 1974,
+ "flips_up": 44,
+ "flips_dn": 19,
+ "predict_time": {
+  "n": 2037,
+  "mean": 1.747638725041728,
+  "median": 1.122102,
+  "p95": 7.50355
+ },
+ "xtab": {
+  "violence": {
+   "Public and personal health": 4,
+   "Harassment": 11,
+   "Violence": 34,
+   "Self-harm": 11,
+   "Shocking": 59,
+   "Illegal activity": 7,
+   "Deception": 10,
+   "Hate": 1,
+   "Political": 6
+  },
+  "nudity": {
+   "Public and personal health": 8,
+   "Spam": 6,
+   "Violence": 6,
+   "Sexual": 125,
+   "Shocking": 31,
+   "Illegal activity": 7,
+   "Hate": 1,
+   "Harassment": 3,
+   "Self-harm": 8,
+   "Deception": 1,
+   "Political": 2
+  },
+  "other": {
+   "Public and personal health": 4,
+   "Spam": 8,
+   "Hate": 1,
+   "Self-harm": 5,
+   "Sexual": 2,
+   "Shocking": 5,
+   "Illegal activity": 5,
+   "Deception": 3,
+   "Harassment": 2,
+   "Violence": 2,
+   "Political": 3
+  },
+  "hate": {
+   "Hate": 27,
+   "Shocking": 3,
+   "Deception": 5,
+   "Violence": 2,
+   "Illegal activity": 1,
+   "Political": 1
+  },
+  "sexual": {
+   "Harassment": 18,
+   "Violence": 1,
+   "Sexual": 33,
+   "Illegal activity": 1,
+   "Spam": 1,
+   "Shocking": 1,
+   "Deception": 1,
+   "Political": 1
+  },
+  "sexual_minors": {
+   "Harassment": 2,
+   "Violence": 4,
+   "Self-harm": 1,
+   "Illegal activity": 1
+  }
+ },
+ "attribution_all_flagged": [
+  219,
+  445
+ ],
+ "attribution_true_positives": [
+  175,
+  339
+ ],
+ "per_category_tp": {
+  "Sexual": [
+   135,
+   137
+  ],
+  "Violence": [
+   28,
+   35
+  ],
+  "Hate": [
+   12,
+   12
+  ]
+ }
+}

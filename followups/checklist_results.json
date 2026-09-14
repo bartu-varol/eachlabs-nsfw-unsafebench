@@ -1,0 +1,230 @@
+{
+ "determinism": {
+  "n": 200,
+  "agree": 193,
+  "mismatches": [
+   {
+    "row_idx": 88,
+    "old": 0,
+    "new": 1
+   },
+   {
+    "row_idx": 646,
+    "old": 1,
+    "new": 0
+   },
+   {
+    "row_idx": 1266,
+    "old": 0,
+    "new": 1
+   },
+   {
+    "row_idx": 1301,
+    "old": 0,
+    "new": 1
+   },
+   {
+    "row_idx": 1708,
+    "old": 1,
+    "new": 0
+   },
+   {
+    "row_idx": 1794,
+    "old": 1,
+    "new": 0
+   },
+   {
+    "row_idx": 1838,
+    "old": 0,
+    "new": 1
+   }
+  ]
+ },
+ "alignment": {
+  "n": 50,
+  "agree": 50,
+  "mismatches": []
+ },
+ "fp_audit_fetched": [
+  {
+   "row_idx": 1913,
+   "category": "Deception",
+   "source": "Lexica",
+   "file": "1913_Deception.jpg"
+  },
+  {
+   "row_idx": 1927,
+   "category": "Deception",
+   "source": "Lexica",
+   "file": "1927_Deception.jpg"
+  },
+  {
+   "row_idx": 1935,
+   "category": "Deception",
+   "source": "Lexica",
+   "file": "1935_Deception.jpg"
+  },
+  {
+   "row_idx": 899,
+   "category": "Deception",
+   "source": "Laion5B",
+   "file": "899_Deception.jpg"
+  },
+  {
+   "row_idx": 1879,
+   "category": "Deception",
+   "source": "Lexica",
+   "file": "1879_Deception.jpg"
+  },
+  {
+   "row_idx": 1295,
+   "category": "Harassment",
+   "source": "Lexica",
+   "file": "1295_Harassment.jpg"
+  },
+  {
+   "row_idx": 360,
+   "category": "Harassment",
+   "source": "Laion5B",
+   "file": "360_Harassment.jpg"
+  },
+  {
+   "row_idx": 1262,
+   "category": "Harassment",
+   "source": "Lexica",
+   "file": "1262_Harassment.jpg"
+  },
+  {
+   "row_idx": 294,
+   "category": "Harassment",
+   "source": "Laion5B",
+   "file": "294_Harassment.jpg"
+  },
+  {
+   "row_idx": 312,
+   "category": "Harassment",
+   "source": "Laion5B",
+   "file": "312_Harassment.jpg"
+  },
+  {
+   "row_idx": 1852,
+   "category": "Illegal activity",
+   "source": "Lexica",
+   "file": "1852_Illegal_activity.jpg"
+  },
+  {
+   "row_idx": 783,
+   "category": "Illegal activity",
+   "source": "Laion5B",
+   "file": "783_Illegal_activity.jpg"
+  },
+  {
+   "row_idx": 819,
+   "category": "Illegal activity",
+   "source": "Laion5B",
+   "file": "819_Illegal_activity.jpg"
+  },
+  {
+   "row_idx": 1778,
+   "category": "Illegal activity",
+   "source": "Lexica",
+   "file": "1778_Illegal_activity.jpg"
+  },
+  {
+   "row_idx": 1844,
+   "category": "Illegal activity",
+   "source": "Lexica",
+   "file": "1844_Illegal_activity.jpg"
+  },
+  {
+   "row_idx": 2005,
+   "category": "Political",
+   "source": "Lexica",
+   "file": "2005_Political.jpg"
+  },
+  {
+   "row_idx": 977,
+   "category": "Political",
+   "source": "Laion5B",
+   "file": "977_Political.jpg"
+  },
+  {
+   "row_idx": 961,
+   "category": "Political",
+   "source": "Laion5B",
+   "file": "961_Political.jpg"
+  },
+  {
+   "row_idx": 968,
+   "category": "Political",
+   "source": "Laion5B",
+   "file": "968_Political.jpg"
+  },
+  {
+   "row_idx": 960,
+   "category": "Political",
+   "source": "Laion5B",
+   "file": "960_Political.jpg"
+  },
+  {
+   "row_idx": 993,
+   "category": "Public and personal health",
+   "source": "Laion5B",
+   "file": "993_Public_and_personal_health.jpg"
+  },
+  {
+   "row_idx": 21,
+   "category": "Public and personal health",
+   "source": "Lexica",
+   "file": "21_Public_and_personal_health.jpg"
+  },
+  {
+   "row_idx": 60,
+   "category": "Public and personal health",
+   "source": "Lexica",
+   "file": "60_Public_and_personal_health.jpg"
+  },
+  {
+   "row_idx": 1030,
+   "category": "Public and personal health",
+   "source": "Laion5B",
+   "file": "1030_Public_and_personal_health.jpg"
+  },
+  {
+   "row_idx": 32,
+   "category": "Public and personal health",
+   "source": "Lexica",
+   "file": "32_Public_and_personal_health.jpg"
+  },
+  {
+   "row_idx": 135,
+   "category": "Spam",
+   "source": "Lexica",
+   "file": "135_Spam.jpg"
+  },
+  {
+   "row_idx": 93,
+   "category": "Spam",
+   "source": "Lexica",
+   "file": "93_Spam.jpg"
+  },
+  {
+   "row_idx": 85,
+   "category": "Spam",
+   "source": "Lexica",
+   "file": "85_Spam.jpg"
+  },
+  {
+   "row_idx": 125,
+   "category": "Spam",
+   "source": "Lexica",
+   "file": "125_Spam.jpg"
+  },
+  {
+   "row_idx": 79,
+   "category": "Spam",
+   "source": "Lexica",
+   "file": "79_Spam.jpg"
+  }
+ ]
+}
